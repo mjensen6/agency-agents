@@ -20,6 +20,7 @@ AGENT_DIRS=(
   gis
   healthcare
   marketing
+  meta
   paid-media
   product
   project-management
